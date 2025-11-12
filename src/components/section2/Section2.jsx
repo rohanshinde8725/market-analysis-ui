@@ -4,7 +4,7 @@ import Page2Content from "./Page2Content";
 
 const Section2 = () => {
   return (
-    <div className='h-[100vh] w-full bg-gray-300'>
+    <div className='h-[100] w-full bg-gray-300'>
         <Navbar />
         <Page2Content />
     </div>
